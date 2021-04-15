@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StealerGUI", "StealerGUI\StealerGUI.csproj", "{D997AFE7-5765-4729-92F4-2D01682409DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackAPI", "BestAPI\BlackAPI.csproj", "{8FD41203-2512-47FE-BAA3-C26338AB14C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D997AFE7-5765-4729-92F4-2D01682409DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D997AFE7-5765-4729-92F4-2D01682409DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D997AFE7-5765-4729-92F4-2D01682409DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D997AFE7-5765-4729-92F4-2D01682409DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD41203-2512-47FE-BAA3-C26338AB14C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD41203-2512-47FE-BAA3-C26338AB14C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD41203-2512-47FE-BAA3-C26338AB14C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD41203-2512-47FE-BAA3-C26338AB14C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {170DD837-BECD-48B1-ACE1-590DA021FAE3}
+	EndGlobalSection
+EndGlobal
